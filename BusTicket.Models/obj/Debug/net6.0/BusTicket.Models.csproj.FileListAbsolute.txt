@@ -1,0 +1,12 @@
+E:\C#\BusTicket.Web\BusTicket.Models\bin\Debug\net6.0\BusTicket.Models.deps.json
+E:\C#\BusTicket.Web\BusTicket.Models\bin\Debug\net6.0\BusTicket.Models.dll
+E:\C#\BusTicket.Web\BusTicket.Models\bin\Debug\net6.0\BusTicket.Models.pdb
+E:\C#\BusTicket.Web\BusTicket.Models\obj\Debug\net6.0\BusTicket.Models.csproj.AssemblyReference.cache
+E:\C#\BusTicket.Web\BusTicket.Models\obj\Debug\net6.0\BusTicket.Models.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\BusTicket.Web\BusTicket.Models\obj\Debug\net6.0\BusTicket.Models.AssemblyInfoInputs.cache
+E:\C#\BusTicket.Web\BusTicket.Models\obj\Debug\net6.0\BusTicket.Models.AssemblyInfo.cs
+E:\C#\BusTicket.Web\BusTicket.Models\obj\Debug\net6.0\BusTicket.Models.csproj.CoreCompileInputs.cache
+E:\C#\BusTicket.Web\BusTicket.Models\obj\Debug\net6.0\BusTicket.Models.dll
+E:\C#\BusTicket.Web\BusTicket.Models\obj\Debug\net6.0\refint\BusTicket.Models.dll
+E:\C#\BusTicket.Web\BusTicket.Models\obj\Debug\net6.0\BusTicket.Models.pdb
+E:\C#\BusTicket.Web\BusTicket.Models\obj\Debug\net6.0\ref\BusTicket.Models.dll

@@ -1,0 +1,15 @@
+E:\C#\BusTicket.Web\BusTicket.DataAccess\bin\Debug\net6.0\BusTicket.DataAccess.deps.json
+E:\C#\BusTicket.Web\BusTicket.DataAccess\bin\Debug\net6.0\BusTicket.DataAccess.dll
+E:\C#\BusTicket.Web\BusTicket.DataAccess\bin\Debug\net6.0\BusTicket.DataAccess.pdb
+E:\C#\BusTicket.Web\BusTicket.DataAccess\bin\Debug\net6.0\BusTicket.Models.dll
+E:\C#\BusTicket.Web\BusTicket.DataAccess\bin\Debug\net6.0\BusTicket.Models.pdb
+E:\C#\BusTicket.Web\BusTicket.DataAccess\obj\Debug\net6.0\BusTicket.DataAccess.csproj.AssemblyReference.cache
+E:\C#\BusTicket.Web\BusTicket.DataAccess\obj\Debug\net6.0\BusTicket.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\BusTicket.Web\BusTicket.DataAccess\obj\Debug\net6.0\BusTicket.DataAccess.AssemblyInfoInputs.cache
+E:\C#\BusTicket.Web\BusTicket.DataAccess\obj\Debug\net6.0\BusTicket.DataAccess.AssemblyInfo.cs
+E:\C#\BusTicket.Web\BusTicket.DataAccess\obj\Debug\net6.0\BusTicket.DataAccess.csproj.CoreCompileInputs.cache
+E:\C#\BusTicket.Web\BusTicket.DataAccess\obj\Debug\net6.0\BusTicket.DataAccess.csproj.CopyComplete
+E:\C#\BusTicket.Web\BusTicket.DataAccess\obj\Debug\net6.0\BusTicket.DataAccess.dll
+E:\C#\BusTicket.Web\BusTicket.DataAccess\obj\Debug\net6.0\refint\BusTicket.DataAccess.dll
+E:\C#\BusTicket.Web\BusTicket.DataAccess\obj\Debug\net6.0\BusTicket.DataAccess.pdb
+E:\C#\BusTicket.Web\BusTicket.DataAccess\obj\Debug\net6.0\ref\BusTicket.DataAccess.dll
